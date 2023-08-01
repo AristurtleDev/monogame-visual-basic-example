@@ -15,8 +15,6 @@ Public Class Game1
         IsMouseVisible = True
     End Sub
 
-
-
     Protected Overrides Sub Initialize()
         'TODO: Add your initialization logic here
         MyBase.Initialize()
